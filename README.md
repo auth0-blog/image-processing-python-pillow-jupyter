@@ -18,7 +18,7 @@ These commands install the following modules:
 
 ## Jupyter Notebook
 
-<a href="https://jupyter.org/"><img src="https://images.ctfassets.net/23aumh6u8s0i/3WWvmj38IXJROqk5shzker/6a1e23405155f09b048e8b99a983aa24/jupyter_logo.png" alt="Jupyter logo" style="float: right;"></a>To make experimenting with Pillow easier, you’ll edit and run the code in this article using [Jupyter Notebook](https://jupyter.org/). It’s a web application for creating interactive documents called notebooks containing code and text.
+To make experimenting with Pillow easier, you’ll edit and run the code in this article using [Jupyter Notebook](https://jupyter.org/). It’s a web application for creating interactive documents called notebooks containing code and text.
 
 Think of Jupyter Notebook as a web-based one-column spreadsheet where you can enter either text (in Markdown form) or code (in Python or several other programming languages) in each cell.
 
